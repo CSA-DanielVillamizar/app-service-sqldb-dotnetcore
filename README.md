@@ -19,7 +19,7 @@ This is a sample application that you can use to follow along with the tutorial 
 
 ### Run from Visual Studio
 
-1. git clone https://github.com/Azure-Samples/msdocs-app-service-sqldb-dotnetcore.git
+1. git clone [https://github.com/Azure-Samples/msdocs-app-service-sqldb-dotnetcor](https://github.com/CSA-DanielVillamizar/app-service-sqldb-dotnetcore)e.git
 2. cd msdocs-app-service-sqldb-dotnetcore
 3. Open *DotNetCoreSqlDb.sln* in Visual Studio.
 4. Start debugging.
